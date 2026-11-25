@@ -1,0 +1,6 @@
+tariff_id,tariff_name,price_per_kwh,peak_start_hour,peak_end_hour,peak_multiplier,currency
+1,Standard Urban,14.0,18.0,22.0,1.2,INR
+2,Premium Urban,18.0,17.0,22.0,1.25,INR
+3,Highway Fast,22.0,,,1.0,INR
+4,Corporate Campus,11.0,,,1.0,INR
+5,Off-Peak Saver,12.5,9.0,17.0,1.0,INR

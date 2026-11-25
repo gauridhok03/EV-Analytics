@@ -1,0 +1,46 @@
+charger_id,station_id,charger_type,connector_type,power_kw,status,is_simulated
+ST01-C1,ST01,AC Level 2,Type 2,22.0,Operational,True
+ST01-C2,ST01,AC Level 2,Type 2,22.0,Operational,True
+ST01-C3,ST01,AC Level 2,Type 2,22.0,Operational,True
+ST01-C4,ST01,DC Fast,CCS2,50.0,Operational,True
+ST01-C5,ST01,DC Fast,CCS2,50.0,Operational,True
+ST02-C1,ST02,AC Level 2,Type 2,7.4,Operational,True
+ST02-C2,ST02,DC Fast,CCS2,60.0,Operational,True
+ST02-C3,ST02,DC Fast,CHAdeMO,60.0,Operational,True
+ST02-C4,ST02,DC Ultra-Fast,CCS2,150.0,Operational,True
+ST03-C1,ST03,AC Level 2,Type 2,22.0,Operational,True
+ST03-C2,ST03,DC Fast,CCS2,50.0,Operational,True
+ST03-C3,ST03,DC Fast,CHAdeMO,30.0,Operational,True
+ST03-C4,ST03,DC Ultra-Fast,CCS2,150.0,Operational,True
+ST04-C1,ST04,AC Level 2,Type 2,7.4,Operational,True
+ST04-C2,ST04,DC Fast,CHAdeMO,50.0,Operational,True
+ST04-C3,ST04,DC Fast,CHAdeMO,30.0,Operational,True
+ST05-C1,ST05,AC Level 2,Type 2,7.4,Operational,True
+ST05-C2,ST05,DC Fast,CCS2,50.0,Operational,True
+ST05-C3,ST05,DC Fast,CCS2,60.0,Operational,True
+ST05-C4,ST05,DC Ultra-Fast,CCS2,150.0,Operational,True
+ST05-C5,ST05,AC Level 2,Type 2,22.0,Operational,True
+ST06-C1,ST06,AC Level 2,Type 2,7.4,Operational,True
+ST06-C2,ST06,DC Fast,CHAdeMO,30.0,Operational,True
+ST06-C3,ST06,DC Fast,CHAdeMO,60.0,Operational,True
+ST06-C4,ST06,DC Ultra-Fast,CCS2,150.0,Operational,True
+ST07-C1,ST07,AC Level 2,Type 2,22.0,Operational,True
+ST07-C2,ST07,DC Fast,CCS2,30.0,Operational,True
+ST07-C3,ST07,DC Fast,CCS2,60.0,Operational,True
+ST08-C1,ST08,DC Ultra-Fast,CCS2,150.0,Operational,True
+ST08-C2,ST08,DC Ultra-Fast,CCS2,150.0,Operational,True
+ST08-C3,ST08,DC Fast,CHAdeMO,50.0,Operational,True
+ST08-C4,ST08,DC Fast,CCS2,30.0,Operational,True
+ST09-C1,ST09,AC Level 2,Type 2,22.0,Operational,True
+ST09-C2,ST09,DC Fast,CCS2,60.0,Operational,True
+ST09-C3,ST09,DC Fast,CHAdeMO,30.0,Operational,True
+ST10-C1,ST10,AC Level 2,Type 2,22.0,Operational,True
+ST10-C2,ST10,DC Fast,CCS2,50.0,Operational,True
+ST10-C3,ST10,DC Fast,CCS2,50.0,Operational,True
+ST11-C1,ST11,AC Level 2,Type 2,7.4,Operational,True
+ST11-C2,ST11,DC Fast,CCS2,30.0,Operational,True
+ST11-C3,ST11,DC Fast,CHAdeMO,60.0,Operational,True
+ST12-C1,ST12,DC Ultra-Fast,CCS2,150.0,Operational,True
+ST12-C2,ST12,DC Ultra-Fast,CCS2,150.0,Operational,True
+ST12-C3,ST12,DC Fast,CCS2,50.0,Operational,True
+ST12-C4,ST12,DC Fast,CHAdeMO,30.0,Operational,True

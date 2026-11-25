@@ -1,0 +1,70 @@
+charger_id,station_id,start_ts,end_ts,outage_type,is_planned,description,is_simulated
+ST07-C3,ST07,2026-10-15 06:01:00,2026-10-15 08:45:00,Hardware fault,False,Simulated hardware fault,True
+ST05-C1,ST05,2026-11-10 03:17:00,2026-11-10 06:51:00,Scheduled maintenance,True,Simulated scheduled maintenance,True
+ST09-C3,ST09,2026-11-10 21:38:00,2026-11-11 01:51:00,Connector damage,False,Simulated connector damage,True
+ST12-C3,ST12,2026-10-14 06:56:00,2026-10-14 10:59:00,Hardware fault,False,Simulated hardware fault,True
+ST02-C1,ST02,2026-10-23 14:45:00,2026-10-23 20:28:00,Hardware fault,False,Simulated hardware fault,True
+ST05-C5,ST05,2026-11-17 02:51:00,2026-11-17 08:02:00,Hardware fault,False,Simulated hardware fault,True
+ST06-C2,ST06,2026-11-06 21:57:00,2026-11-07 01:51:00,Network outage,False,Simulated network outage,True
+ST09-C1,ST09,2026-10-13 18:11:00,2026-10-13 21:31:00,Power supply,False,Simulated power supply,True
+ST10-C1,ST10,2026-10-24 16:17:00,2026-10-24 18:08:00,Network outage,False,Simulated network outage,True
+ST01-C2,ST01,2026-11-05 03:36:00,2026-11-05 06:58:00,Hardware fault,False,Simulated hardware fault,True
+ST04-C1,ST04,2026-10-25 10:27:00,2026-10-25 14:51:00,Power supply,False,Simulated power supply,True
+ST12-C1,ST12,2026-11-21 15:44:00,2026-11-21 18:26:00,Hardware fault,False,Simulated hardware fault,True
+ST06-C1,ST06,2026-10-31 15:45:00,2026-11-01 20:12:00,Hardware fault,False,Simulated hardware fault,True
+ST10-C1,ST10,2026-11-04 10:36:00,2026-11-04 11:51:00,Scheduled maintenance,True,Simulated scheduled maintenance,True
+ST10-C2,ST10,2026-11-02 04:04:00,2026-11-02 05:06:00,Network outage,False,Simulated network outage,True
+ST03-C4,ST03,2026-11-15 18:28:00,2026-11-15 23:55:00,Hardware fault,False,Simulated hardware fault,True
+ST06-C4,ST06,2026-10-14 19:57:00,2026-10-14 22:12:00,Power supply,False,Simulated power supply,True
+ST02-C2,ST02,2026-11-08 08:15:00,2026-11-08 12:34:00,Network outage,False,Simulated network outage,True
+ST12-C2,ST12,2026-11-19 18:18:00,2026-11-19 20:44:00,Hardware fault,False,Simulated hardware fault,True
+ST09-C3,ST09,2026-11-03 16:34:00,2026-11-04 10:20:00,Hardware fault,False,Simulated hardware fault,True
+ST04-C1,ST04,2026-10-24 02:42:00,2026-10-24 10:32:00,Scheduled maintenance,True,Simulated scheduled maintenance,True
+ST10-C3,ST10,2026-11-01 22:04:00,2026-11-01 23:32:00,Network outage,False,Simulated network outage,True
+ST12-C4,ST12,2026-10-11 23:57:00,2026-10-12 02:20:00,Hardware fault,False,Simulated hardware fault,True
+ST12-C2,ST12,2026-11-18 16:18:00,2026-11-19 03:52:00,Scheduled maintenance,True,Simulated scheduled maintenance,True
+ST11-C1,ST11,2026-11-02 02:08:00,2026-11-02 11:57:00,Scheduled maintenance,True,Simulated scheduled maintenance,True
+ST11-C3,ST11,2026-11-08 10:39:00,2026-11-09 01:00:00,Connector damage,False,Simulated connector damage,True
+ST11-C2,ST11,2026-10-21 16:18:00,2026-10-21 19:51:00,Connector damage,False,Simulated connector damage,True
+ST01-C5,ST01,2026-10-15 11:06:00,2026-10-16 01:02:00,Hardware fault,False,Simulated hardware fault,True
+ST11-C3,ST11,2026-11-05 16:08:00,2026-11-05 18:41:00,Hardware fault,False,Simulated hardware fault,True
+ST02-C2,ST02,2026-11-13 14:16:00,2026-11-13 15:26:00,Network outage,False,Simulated network outage,True
+ST06-C2,ST06,2026-10-10 14:53:00,2026-10-11 02:24:00,Hardware fault,False,Simulated hardware fault,True
+ST06-C2,ST06,2026-11-09 03:44:00,2026-11-09 05:11:00,Hardware fault,False,Simulated hardware fault,True
+ST04-C1,ST04,2026-11-04 20:37:00,2026-11-05 00:59:00,Connector damage,False,Simulated connector damage,True
+ST06-C2,ST06,2026-11-10 20:03:00,2026-11-10 22:04:00,Scheduled maintenance,True,Simulated scheduled maintenance,True
+ST10-C3,ST10,2026-11-20 06:38:00,2026-11-20 10:20:00,Hardware fault,False,Simulated hardware fault,True
+ST02-C1,ST02,2026-10-31 17:48:00,2026-10-31 19:52:00,Network outage,False,Simulated network outage,True
+ST04-C2,ST04,2026-11-20 03:41:00,2026-11-20 04:59:00,Network outage,False,Simulated network outage,True
+ST12-C3,ST12,2026-11-07 05:05:00,2026-11-07 06:39:00,Power supply,False,Simulated power supply,True
+ST09-C1,ST09,2026-11-21 23:56:00,2026-11-22 04:32:00,Network outage,False,Simulated network outage,True
+ST02-C2,ST02,2026-11-14 19:03:00,2026-11-14 20:55:00,Scheduled maintenance,True,Simulated scheduled maintenance,True
+ST08-C1,ST08,2026-10-14 20:33:00,2026-10-14 23:45:00,Hardware fault,False,Simulated hardware fault,True
+ST10-C1,ST10,2026-10-20 08:27:00,2026-10-20 15:09:00,Connector damage,False,Simulated connector damage,True
+ST09-C3,ST09,2026-11-05 20:07:00,2026-11-05 23:22:00,Scheduled maintenance,True,Simulated scheduled maintenance,True
+ST07-C3,ST07,2026-10-28 22:50:00,2026-10-29 00:15:00,Network outage,False,Simulated network outage,True
+ST12-C3,ST12,2026-10-21 00:41:00,2026-10-21 01:22:00,Network outage,False,Simulated network outage,True
+ST11-C2,ST11,2026-11-15 08:05:00,2026-11-17 02:19:00,Connector damage,False,Simulated connector damage,True
+ST11-C2,ST11,2026-10-16 12:06:00,2026-10-16 20:35:00,Power supply,False,Simulated power supply,True
+ST01-C3,ST01,2026-10-16 09:39:00,2026-10-16 12:02:00,Network outage,False,Simulated network outage,True
+ST07-C2,ST07,2026-10-16 20:03:00,2026-10-16 20:42:00,Network outage,False,Simulated network outage,True
+ST02-C3,ST02,2026-10-12 11:09:00,2026-10-12 16:51:00,Hardware fault,False,Simulated hardware fault,True
+ST09-C1,ST09,2026-11-22 02:14:00,2026-11-22 05:14:00,Network outage,False,Simulated overlapping event,True
+ST04-C1,ST04,2026-10-24 06:37:00,2026-10-24 09:37:00,Network outage,False,Simulated overlapping event,True
+ST09-C3,ST09,2026-11-10 23:44:00,2026-11-11 02:44:00,Network outage,False,Simulated overlapping event,True
+ST11-C3,ST11,2026-11-08 17:49:00,2026-11-08 20:49:00,Network outage,False,Simulated overlapping event,True
+ST11-C3,ST11,2026-11-05 17:24:00,2026-11-05 20:24:00,Network outage,False,Simulated overlapping event,True
+ST03-C1,ST03,2026-10-12 20:51:00,2026-10-12 22:49:00,Power supply,False,Simulated station-wide power cut,True
+ST03-C2,ST03,2026-10-12 20:51:00,2026-10-12 22:49:00,Power supply,False,Simulated station-wide power cut,True
+ST03-C3,ST03,2026-10-12 20:51:00,2026-10-12 22:49:00,Power supply,False,Simulated station-wide power cut,True
+ST03-C4,ST03,2026-10-12 20:51:00,2026-10-12 22:49:00,Power supply,False,Simulated station-wide power cut,True
+ST10-C1,ST10,2026-10-21 04:19:00,2026-10-21 06:26:00,Power supply,False,Simulated station-wide power cut,True
+ST10-C2,ST10,2026-10-21 04:19:00,2026-10-21 06:26:00,Power supply,False,Simulated station-wide power cut,True
+ST10-C3,ST10,2026-10-21 04:19:00,2026-10-21 06:26:00,Power supply,False,Simulated station-wide power cut,True
+ST06-C1,ST06,2026-11-04 13:30:00,2026-11-04 16:03:00,Power supply,False,Simulated station-wide power cut,True
+ST06-C2,ST06,2026-11-04 13:30:00,2026-11-04 16:03:00,Power supply,False,Simulated station-wide power cut,True
+ST06-C3,ST06,2026-11-04 13:30:00,2026-11-04 16:03:00,Power supply,False,Simulated station-wide power cut,True
+ST06-C4,ST06,2026-11-04 13:30:00,2026-11-04 16:03:00,Power supply,False,Simulated station-wide power cut,True
+ST09-C1,ST09,2026-10-13 02:49:00,2026-10-13 05:15:00,Power supply,False,Simulated station-wide power cut,True
+ST09-C2,ST09,2026-10-13 02:49:00,2026-10-13 05:15:00,Power supply,False,Simulated station-wide power cut,True
+ST09-C3,ST09,2026-10-13 02:49:00,2026-10-13 05:15:00,Power supply,False,Simulated station-wide power cut,True

@@ -1,0 +1,13 @@
+station_id,station_name,city,address,latitude,longitude,status,tariff_id,commissioned_on,is_simulated
+ST01,VoltHub Hinjewadi Phase 1,Pune,Rajiv Gandhi Infotech Park,18.5912,73.7389,Operational,4,2026-04-04,True
+ST02,VoltHub Kothrud,Pune,Karve Road,18.5074,73.8077,Operational,1,2024-10-17,True
+ST03,VoltHub Viman Nagar,Pune,Near Phoenix Marketcity,18.5679,73.9143,Operational,2,2025-01-18,True
+ST04,VoltHub Koregaon Park,Pune,North Main Road,18.5362,73.894,Operational,2,2025-07-05,True
+ST05,VoltHub BKC,Mumbai,Bandra Kurla Complex,19.0674,72.8697,Operational,2,2025-07-10,True
+ST06,VoltHub Andheri East,Mumbai,"Chakala, near Airport Road",19.1136,72.8697,Operational,1,2024-08-12,True
+ST07,VoltHub Powai,Mumbai,Hiranandani Gardens,19.1176,72.906,Operational,1,2026-04-06,True
+ST08,VoltHub Lonavala Expressway,Lonavala,Mumbai-Pune Expressway Food Plaza,18.7546,73.4062,Operational,3,2024-12-16,True
+ST09,VoltHub Nashik Road,Nashik,Near Nashik Road Railway Station,19.9482,73.845,Operational,1,2026-01-06,True
+ST10,VoltHub Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,Jalna Road,19.8762,75.3433,Operational,5,2026-03-31,True
+ST11,VoltHub Kolhapur,Kolhapur,Tarabai Park,16.705,74.2433,Operational,5,2025-04-28,True
+ST12,VoltHub Satara Highway,Satara,NH48 Highway Plaza,17.6805,74.0183,Operational,3,2024-05-13,True
